@@ -1,0 +1,32 @@
+.kv {
+width: 400px;  
+height: 400px;
+background-image: url(https://sportishka.com/uploads/posts/2023-11/1701191926_sportishka-com-p-bmv-nemetskaya-mashina-krasivo-18.jpg);
+background-size: contain; 
+background-repeat: no-repeat;
+
+}
+.kvadrat2 {
+width: 400px;
+height: 400px;
+background-image: url(https://sportishka.com/uploads/posts/2023-12/1701522273_sportishka-com-p-chernaya-bmv-oboi-instagram-1.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.kvadrat3 {
+ width: 400px;
+ height: 400px;
+ background-image: url(https://avtonovostidnya.ru/wp-content/uploads/2011/08/BMW-i8.jpg);
+ background-size: contain;
+ background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
